@@ -1,1 +1,1 @@
-# ChatGpt clone
+# ChatGpt clone in React with backend
